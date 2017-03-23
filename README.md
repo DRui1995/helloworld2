@@ -7,7 +7,7 @@ things that will be convered in this project are:
 2. More stuff
 3. And even more stuff
 
-#Proposal
+###Proposal
 The hello world is proposed to be used as a tool to understand how to use Github.
 
 
